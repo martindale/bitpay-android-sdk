@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BitPay SDK</string>
+    <string name="title_activity_invoice">InvoiceActivity</string>
+    <string name="pay">Launch Wallet to Pay</string>
+    <string name="accesibilityQRCode">bitcoin url qr code</string>
+</resources>
